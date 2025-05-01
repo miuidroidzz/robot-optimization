@@ -1,13 +1,14 @@
 
 # 🧠 Linux Services & RAM Monitor (Bash)
 
-> Um script bash super estilizado que exibe serviços ativos e uso da memória RAM, em tempo real, com interface colorida e visual elegante!
-
+> Um script bash super estilizado que exibe serviços ativos e uso da memória RAM, em tempo real, e pode otimizar a ram.
 ## 🚀 Como usar
 
 ```bash
-chmod +x services_ram_monitor.sh
-./services_ram_monitor.sh
+1 - https://github.com/miuidroidzz/robot-optimization.git
+2 - cd robot-optimization
+3 - chmod +x services_ram_monitor.sh
+4 - ./services_ram_monitor.sh
 ```
 
 ## ✨ Recursos
